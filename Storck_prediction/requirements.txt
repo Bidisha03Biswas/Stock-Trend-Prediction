@@ -1,6 +1,5 @@
 streamlit==1.36.0
 pandas==2.2.2
 numpy==1.26.4
+matplotlib==3.9.2
 yfinance==0.2.40
-rich==14.1.0
-aiobotocore==2.15.2
